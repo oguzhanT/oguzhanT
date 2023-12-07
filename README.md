@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Oğuzhan Togay
+- [![trophy](https://github-profile-trophy.vercel.app/?username=oguzhanT)](https://github.com/ryo-ma/github-profile-trophy)
 <div id="badges">
   <a href="https://www.linkedin.com/in/oguzhan-togay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
